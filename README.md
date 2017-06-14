@@ -1,5 +1,9 @@
 
 
+Setup.py 
+
+Contains setup information require for this simple library. 
+
 README.md
 
 # Test site 
